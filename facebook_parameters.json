@@ -1,0 +1,29 @@
+{
+    "endpoint": {
+        "start_url": "https://graph.facebook.com",
+        "api_version": "v3.2",
+        "end_url": "insights",
+        "campaign_id": "23843180291890670"
+    },
+    "credentials": {
+        "access_token": "EAAHYXzuBwZCsBAEupoCrNsQR9AwsQ4KYhAkbPO6SujyGoC5Nc8ghNBo4hZBraPe7UeExSe9NUovO8SN64w2mZCPXfEQM9CdNZCAXUIlQsrQ16ZAThBeGoZAEZAoa1Cr6fjOF3BvmRIgT5WXOpSDelYrff8Oj4hvMFUYxxMaKV3LPTQsv1c0A6qL"
+    },
+    "parameters": [
+        {
+            "name": "date_preset",
+            "value": "lifetime"
+        },
+        {
+            "name": "fields",
+            "value": "insights{unique_clicks,cpm,total_actions}"
+        },
+        {
+            "name": "level",
+            "value": "ad"
+        },
+        {
+            "name": "fields",
+            "value": "insights{unique_clicks,cpm,total_actions}"
+        }
+    ]
+}
